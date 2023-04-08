@@ -1,0 +1,31 @@
+{
+  "name": "debuggerapp",
+  "version": "1.0.0",
+  "description": "service for junior programmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "job",
+    "it",
+    "programming",
+    "software"
+  ],
+  "author": "Rahman Niftaliyev && Muhammed Serkerli",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "5.2",
+    "mongoose": "^7.0.3",
+    "morgan": "^1.10.0",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "socket.io": "^4.6.1",
+    "stripe": "^11.16.0"
+  }
+}

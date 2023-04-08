@@ -1,0 +1,23 @@
+{
+  "default-src": ["'self'"],
+  "script-src": ["'self'"],
+  "style-src": ["'self'"],
+  "img-src": ["'self'"],
+  "font-src": ["'self'"],
+  "connect-src": ["'self'"],
+  "media-src": ["'self'"],
+  "object-src": ["'none'"],
+  "frame-src": ["'none'"],
+  "base-uri": ["'self'"],
+  "form-action": ["'self'"],
+  "frame-ancestors": ["'none'"],
+  "worker-src": ["'self'"],
+  "manifest-src": ["'self'"],
+  "prefetch-src": ["'self'"],
+  "child-src": ["'none'"],
+  "plugin-types": ["application/pdf"],
+  "require-sri-for": ["script", "style"],
+  "report-uri": ["/csp-report"]
+}
+
+
