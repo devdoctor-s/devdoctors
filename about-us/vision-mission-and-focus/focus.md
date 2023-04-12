@@ -1,9 +1,3 @@
 # Focus
 
-## Our Focus
-
-{% hint style="info" %}
-**GitBook tip:** a good focus statement tells people what you're working on **right now** to get closer to achieving your vision and fulfilling your mission.
-{% endhint %}
-
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+Our focus is on helping junior developers hone their technical skills and develop a deep understanding of the principles and best practices that drive success in the tech industry. At DevDoctors, we are dedicated to providing a comprehensive interview preparation program that equips junior developers with the confidence and knowledge they need to ace their job interviews. We believe that a strong emphasis on problem-solving and critical thinking skills is essential for success in the tech industry, and we focus on cultivating these skills in our training programs. Our approach to interview preparation is data-driven, results-oriented, and customized to meet the unique needs of each individual student. Our team of experienced instructors and mentors is committed to providing personalized guidance and support to each of our students, ensuring that they are well-prepared for the challenges of the job interview process.
