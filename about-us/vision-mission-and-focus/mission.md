@@ -1,9 +1,3 @@
 # Mission
 
-## Our Mission
-
-{% hint style="info" %}
-**GitBook tip:** a good mission statement tells people **why** you exist and what your impact on the world can be.
-{% endhint %}
-
-Our company mission is to…
+**Our mission** at DevDoctors is to empower junior developers with the skills, knowledge, and confidence needed to excel in the fast-paced world of software engineering. We are dedicated to providing a comprehensive training program that prepares our students for the rigorous demands of the tech industry and helps them secure fulfilling and rewarding careers. At DevDoctors, we believe that everyone should have access to quality programming education, regardless of their background or experience level. That is why we strive to create an inclusive and supportive learning environment that fosters growth and development for all. Our goal is to bridge the gap between academia and industry by providing practical, hands-on training that is relevant to today's job market and prepares our students for real-world challenges. We are passionate about helping junior developers unlock their full potential and achieve their career goals through personalized mentoring, interactive learning, and ongoing support.
